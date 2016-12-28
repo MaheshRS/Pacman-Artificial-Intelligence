@@ -1,0 +1,4 @@
+Question 2:
+a. python autograder.py -q q2 --no-graphics -t test_cases/q2/0-lecture-6-tree
+b. python autograder.py -q q2 --no-graphics -t test_cases/q2/1-8-minmax
+c. python autograder.py -q q2 --no-graphics -t test_cases/q2/2-1a-vary-depth
